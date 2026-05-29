@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscerify",
+        "uuid": 44734029,
+        "checksum": "g0aarm"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
